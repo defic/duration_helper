@@ -1,0 +1,10 @@
+[package]
+name = "duration_helper"
+description = "Simple std::time::Duration extension methods for i64 and f64 types: 5.hours()"
+authors = ["Jeremias"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+keywords = ["duration", "time", "extension", "methods", "helper", "tool"]
+
+[dependencies]
