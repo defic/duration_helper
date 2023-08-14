@@ -5,6 +5,6 @@ authors = ["Jeremias"]
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-keywords = ["duration", "time", "extension", "methods", "helper", "tool"]
+keywords = ["duration", "time", "extension", "helper", "tool"]
 
 [dependencies]
